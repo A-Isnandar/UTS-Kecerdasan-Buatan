@@ -70,8 +70,8 @@ Proyek ini disarankan untuk dijalankan menggunakan _virtual environment_ (`venv`
 1.  **Clone repository ini:**
 
     ```bash
-    git clone [URL_GITHUB_LU_DI_SINI]
-    cd [NAMA_FOLDER_REPO_LU]
+    git clone https://github.com/A-Isnandar/UTS-Kecerdasan-Buatan.git
+    cd (lokasi folder anda)
     ```
 
 2.  **Buat dan aktifkan virtual environment:**
@@ -90,7 +90,7 @@ Proyek ini disarankan untuk dijalankan menggunakan _virtual environment_ (`venv`
 3.  **Install semua library yang dibutuhkan:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install jupyter matplotlib numpy
     ```
 
 4.  **Jalankan Jupyter Notebook:**
